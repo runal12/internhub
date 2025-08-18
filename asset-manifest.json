@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/internhub/static/css/main.379d20dd.css",
+    "main.js": "/internhub/static/js/main.458eb537.js",
+    "index.html": "/internhub/index.html",
+    "main.379d20dd.css.map": "/internhub/static/css/main.379d20dd.css.map",
+    "main.458eb537.js.map": "/internhub/static/js/main.458eb537.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.379d20dd.css",
+    "static/js/main.458eb537.js"
+  ]
+}
